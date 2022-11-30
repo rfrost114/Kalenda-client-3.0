@@ -1,14 +1,14 @@
 package com.mycompany.kalenda.three;
 
-import packages.User;
+//import packages.User;
 import javafx.application.Application;
 import static javafx.application.Application.launch;
 import javafx.scene.Scene;
-import javafx.scene.control.Label;
-import javafx.scene.layout.StackPane;
+//import javafx.scene.control.Label;
+//import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
-import java.util.concurrent.TimeUnit;
-import packages.DayNames;
+//import java.util.concurrent.TimeUnit;
+//import packages.DayNames;
 
 
 /**

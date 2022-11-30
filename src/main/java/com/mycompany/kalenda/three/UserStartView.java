@@ -18,7 +18,7 @@ import javafx.scene.control.TextField;
 import javafx.scene.control.ToggleGroup;
 import javafx.scene.control.Button;
 import javafx.event.EventHandler;
-import javafx.beans.value.ChangeListener;
+//import javafx.beans.value.ChangeListener;
 
 public class UserStartView extends GridPane {
     //user creation

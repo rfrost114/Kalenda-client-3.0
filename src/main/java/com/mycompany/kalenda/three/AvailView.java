@@ -12,20 +12,20 @@ package com.mycompany.kalenda.three;
 import packages.DayNames;
 import packages.WeekAvail;
 import packages.User;
-import javafx.event.Event;
-import javafx.event.EventHandler;
+//import javafx.event.Event;
+//import javafx.event.EventHandler;
 import javafx.event.ActionEvent;
-import javafx.scene.control.TextField;
+//import javafx.scene.control.TextField;
 import javafx.scene.layout.GridPane;
 import javafx.scene.layout.ColumnConstraints;
-import javafx.scene.layout.Region;
+//import javafx.scene.layout.Region;
 import javafx.scene.text.Text;
 import javafx.scene.control.CheckBox;
 import javafx.event.EventHandler;
 import javafx.scene.control.Button;
 
-import java.util.Observable;
-import java.util.Observer;
+//import java.util.Observable;
+//import java.util.Observer;
 import javafx.scene.layout.Priority;
 
 
